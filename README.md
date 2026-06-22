@@ -1,4 +1,8 @@
-# Cursor Skill Builder
+# Cursor
+
+Vishal's Personal Cursor Projects
+
+## Cursor Skill Builder
 
 A lightweight 7-day practice project to sharpen prompt engineering and Cursor workflows.
 
