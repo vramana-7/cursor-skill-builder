@@ -6,6 +6,12 @@ Vishal's Personal Cursor Projects
 
 A lightweight 7-day practice project to sharpen prompt engineering and Cursor workflows.
 
+## About This Project
+
+- What it does: turns weekly context into clear priorities, next actions, and concise rationale through prompt iterations.
+- What I practiced: prompt design (vague vs structured vs constrained), Cursor workflow, and first GitHub publish flow.
+- What's next: Day 2 builds a reusable prompt framework I can apply across personal and team planning.
+
 ## Week Goal
 
 Build a tiny but useful tool that turns your weekly context into:
