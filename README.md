@@ -10,7 +10,13 @@ A lightweight 7-day practice project to sharpen prompt engineering and Cursor wo
 
 - What it does: turns weekly context into clear priorities, next actions, and concise rationale through prompt iterations.
 - What I practiced: prompt design (vague vs structured vs constrained), Cursor workflow, and first GitHub publish flow.
-- What's next: Day 2 builds a reusable prompt framework I can apply across personal and team planning.
+- What's next: continue iterating daily and publish progress through Day 7.
+
+## Current Progress
+
+- Day 1: completed and published
+- Day 2: completed and published
+- Day 3-7: in progress
 
 ## Week Goal
 
@@ -59,6 +65,29 @@ git remote add origin https://github.com/<your-username>/cursor-skill-builder.gi
 git push -u origin main
 ```
 
+## Day 2 (60 minutes)
+
+### 1) Review Day 1 outputs (20 min)
+- Identify what structure and constraints improved quality
+- Note what was still too generic
+
+### 2) Build reusable template (25 min)
+- Open `prompts/template.md`
+- Run it with your weekly context
+- Save results to `examples/day2-output.md`
+
+### 3) Tighten and rerun (10 min)
+- Improve one part of the template (format, constraints, or success criteria)
+- Run again and compare outputs
+
+### 4) Commit + push (5 min)
+
+```bash
+git add .
+git commit -m "Add Day 2 reusable prompt framework and outputs"
+git push
+```
+
 ## Project Structure
 
 - `prompts/` - reusable prompt frameworks and daily exercises
@@ -68,8 +97,8 @@ git push -u origin main
 
 ## This Week Roadmap
 
-- Day 1: baseline prompting + first GitHub publish
-- Day 2: reusable prompt framework
+- Day 1: baseline prompting + first GitHub publish (done)
+- Day 2: reusable prompt framework (done)
 - Day 3: Cursor workflow drills
 - Day 4: output evaluation
 - Day 5: guardrails and refactor
