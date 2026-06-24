@@ -16,7 +16,8 @@ A lightweight 7-day practice project to sharpen prompt engineering and Cursor wo
 
 - Day 1: completed and published
 - Day 2: completed and published
-- Day 3-7: in progress
+- Day 3: completed and published
+- Day 4-7: in progress
 
 ## Week Goal
 
@@ -88,6 +89,26 @@ git commit -m "Add Day 2 reusable prompt framework and outputs"
 git push
 ```
 
+## Day 3 (60 minutes)
+
+### 1) Fast edit loop (15 min)
+- Open `src/planner.py`
+- Add one visible output improvement (for example: `Top Win`)
+- Run `python3 src/planner.py` and verify the change
+
+### 2) Prompt-to-file workflow (20 min)
+- Open `prompts/template.md`
+- Add a measurable progress tracker requirement
+- Run the template and save output notes in `examples/day3-output.md`
+
+### 3) Review + commit workflow (15 min)
+- Review file changes in Source Control
+- Commit with a clear message
+- Push/sync and verify on GitHub
+
+### 4) Reflection (10 min)
+- Record easiest step, friction point, and one reusable shortcut in `examples/day3-output.md`
+
 ## Project Structure
 
 - `prompts/` - reusable prompt frameworks and daily exercises
@@ -99,7 +120,7 @@ git push
 
 - Day 1: baseline prompting + first GitHub publish (done)
 - Day 2: reusable prompt framework (done)
-- Day 3: Cursor workflow drills
+- Day 3: Cursor workflow drills (done)
 - Day 4: output evaluation
 - Day 5: guardrails and refactor
 - Day 6: GitHub polish
