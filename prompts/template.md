@@ -12,6 +12,10 @@ Use the context below to produce exactly:
 4) A risk check section with:
    - one likely risk per priority
    - one mitigation per risk
+5) A progress tracker section with:
+   - one measurable target per priority
+   - a completion checkbox format: [ ] not started, [~] in progress, [x] done
+   - an overall weekly completion percentage (0-100%)
 
 Formatting requirements:
 - Use markdown headers
@@ -19,6 +23,7 @@ Formatting requirements:
 - Keep language simple and specific
 - Avoid generic advice
 - If context is missing, make one clear assumption and continue
+- Make progress targets quantifiable (counts, dates, or deliverables)
 
 Weekly context:
 [PROJECTS]
@@ -31,6 +36,7 @@ Success criteria:
 - priorities tie directly to deadlines and constraints
 - actions are concrete enough to start immediately
 - rationale is concise and not repetitive
+- progress tracker is measurable and easy to update daily
 ```
 
 ## Quick Placeholder Guide
