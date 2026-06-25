@@ -18,7 +18,8 @@ A lightweight 7-day practice project to sharpen prompt engineering and Cursor wo
 - Day 2: completed and published
 - Day 3: completed and published
 - Day 4: completed and published
-- Day 5-7: in progress
+- Day 5: completed and published
+- Day 6-7: in progress
 
 ## Week Goal
 
@@ -129,6 +130,25 @@ git push
 - Score improved output with same rubric
 - Document score delta and one lesson for Day 5
 
+## Day 5 (60 minutes)
+
+### 1) Add guardrails to prompt (15 min)
+- Open `evals/day5-guardrails.md`
+- Apply 2-3 guardrails to `prompts/template.md`
+- Run prompt once and capture output snapshot
+
+### 2) Refactor planner script (20 min)
+- Refactor `src/planner.py` into helper functions/constants for readability
+- Keep CLI behavior the same and rerun `python3 src/planner.py`
+
+### 3) Validate with checklist (15 min)
+- Use guardrail validation checks in `examples/day5-output.md`
+- Mark pass/fail for actionability, specificity, risk quality, and measurability
+
+### 4) Reflection + publish (10 min)
+- Record key takeaways in `examples/day5-output.md`
+- Commit and push Day 5 changes
+
 ## Project Structure
 
 - `prompts/` - reusable prompt frameworks and daily exercises
@@ -142,6 +162,6 @@ git push
 - Day 2: reusable prompt framework (done)
 - Day 3: Cursor workflow drills (done)
 - Day 4: output evaluation (done)
-- Day 5: guardrails and refactor
+- Day 5: guardrails and refactor (done)
 - Day 6: GitHub polish
 - Day 7: demo and reflection

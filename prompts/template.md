@@ -24,6 +24,8 @@ Formatting requirements:
 - Avoid generic advice
 - If context is missing, make one clear assumption and continue
 - Make progress targets quantifiable (counts, dates, or deliverables)
+- Do not add priorities beyond the requested 3
+- Forbid vague phrases like "stay focused" or "do your best"
 
 Weekly context:
 [PROJECTS]
@@ -37,6 +39,7 @@ Success criteria:
 - actions are concrete enough to start immediately
 - rationale is concise and not repetitive
 - progress tracker is measurable and easy to update daily
+- each priority includes one practical risk and one mitigation
 ```
 
 ## Quick Placeholder Guide
