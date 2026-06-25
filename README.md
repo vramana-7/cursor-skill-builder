@@ -17,7 +17,8 @@ A lightweight 7-day practice project to sharpen prompt engineering and Cursor wo
 - Day 1: completed and published
 - Day 2: completed and published
 - Day 3: completed and published
-- Day 4-7: in progress
+- Day 4: completed and published
+- Day 5-7: in progress
 
 ## Week Goal
 
@@ -109,6 +110,25 @@ git push
 ### 4) Reflection (10 min)
 - Record easiest step, friction point, and one reusable shortcut in `examples/day3-output.md`
 
+## Day 4 (60 minutes)
+
+### 1) Generate baseline output (20 min)
+- Run `prompts/template.md` with weekly context
+- Save as baseline in `examples/day4-output.md`
+
+### 2) Score baseline with rubric (20 min)
+- Use `evals/day4-rubric.md`
+- Score 6 categories (1-5 each) and total out of 30
+- Record 2-3 observations
+
+### 3) Improve one prompt element (15 min)
+- Change exactly one part of the prompt (format, constraints, or success criteria)
+- Rerun and save improved output in `examples/day4-output.md`
+
+### 4) Rescore and compare (5 min)
+- Score improved output with same rubric
+- Document score delta and one lesson for Day 5
+
 ## Project Structure
 
 - `prompts/` - reusable prompt frameworks and daily exercises
@@ -121,7 +141,7 @@ git push
 - Day 1: baseline prompting + first GitHub publish (done)
 - Day 2: reusable prompt framework (done)
 - Day 3: Cursor workflow drills (done)
-- Day 4: output evaluation
+- Day 4: output evaluation (done)
 - Day 5: guardrails and refactor
 - Day 6: GitHub polish
 - Day 7: demo and reflection
