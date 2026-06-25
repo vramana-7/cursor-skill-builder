@@ -1,4 +1,4 @@
-# Cursor
+# Cursor Skill Builder
 
 Vishal's Personal Cursor Projects
 
