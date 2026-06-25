@@ -2,6 +2,12 @@
 
 All notable updates to this project are documented here.
 
+## Day 7 - Demo and Reflection
+
+- Added `prompts/day7.md` to close the week with demo narrative and final reflection.
+- Added `examples/day7-output.md` with consolidated wins, metrics, and next-week plan.
+- Finalized week-completion updates in README roadmap/progress.
+
 ## Day 6 - GitHub Polish
 
 - Added `prompts/day6.md` for repository polish workflow.

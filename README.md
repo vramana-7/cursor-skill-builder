@@ -20,7 +20,7 @@ A lightweight 7-day practice project to sharpen prompt engineering and Cursor wo
 - Day 4: completed and published
 - Day 5: completed and published
 - Day 6: completed and published
-- Day 7: in progress
+- Day 7: completed and published
 
 ## Week Goal
 
@@ -168,6 +168,23 @@ git push
 ### 4) Publish (10 min)
 - Commit and push Day 6 documentation updates
 
+## Day 7 (60 minutes)
+
+### 1) Demo narrative (20 min)
+- Build a concise 3-part story: problem, process, and outcome
+- Reference strongest daily artifacts
+
+### 2) Portfolio reflection (20 min)
+- Summarize wins from Day 1-6 in `examples/day7-output.md`
+- Capture one measurable improvement across the week
+
+### 3) Next iteration plan (10 min)
+- Define one improvement each for prompts, tooling, and docs
+
+### 4) Final publish (10 min)
+- Mark week complete in README and changelog
+- Commit and push final Day 7 artifacts
+
 ## Project Structure
 
 - `prompts/` - reusable prompt frameworks and daily exercises
@@ -183,4 +200,4 @@ git push
 - Day 4: output evaluation (done)
 - Day 5: guardrails and refactor (done)
 - Day 6: GitHub polish (done)
-- Day 7: demo and reflection
+- Day 7: demo and reflection (done)
