@@ -19,7 +19,8 @@ A lightweight 7-day practice project to sharpen prompt engineering and Cursor wo
 - Day 3: completed and published
 - Day 4: completed and published
 - Day 5: completed and published
-- Day 6-7: in progress
+- Day 6: completed and published
+- Day 7: in progress
 
 ## Week Goal
 
@@ -149,6 +150,24 @@ git push
 - Record key takeaways in `examples/day5-output.md`
 - Commit and push Day 5 changes
 
+## Day 6 (60 minutes)
+
+### 1) Repository clarity pass (20 min)
+- Score polish using `evals/day6-github-polish.md`
+- Verify README sections and overall repo narrative
+- Record baseline notes in `examples/day6-output.md`
+
+### 2) Add contributor docs (20 min)
+- Add `CONTRIBUTING.md` with setup and workflow guidance
+- Add `CHANGELOG.md` with day-by-day project milestones
+
+### 3) Final polish check (10 min)
+- Re-score using the same checklist
+- Confirm naming consistency and contributor readiness
+
+### 4) Publish (10 min)
+- Commit and push Day 6 documentation updates
+
 ## Project Structure
 
 - `prompts/` - reusable prompt frameworks and daily exercises
@@ -163,5 +182,5 @@ git push
 - Day 3: Cursor workflow drills (done)
 - Day 4: output evaluation (done)
 - Day 5: guardrails and refactor (done)
-- Day 6: GitHub polish
+- Day 6: GitHub polish (done)
 - Day 7: demo and reflection
