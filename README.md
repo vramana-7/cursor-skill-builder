@@ -1,6 +1,6 @@
 # Cursor Skill Builder
 
-Vishal's Personal Cursor Projects
+A 7-day structured prompt engineering and Cursor workflow practice system — covering prompt design, output evaluation, guardrails, and GitHub publish workflows.
 
 ## Cursor Skill Builder
 
