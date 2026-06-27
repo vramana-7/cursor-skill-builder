@@ -1,10 +1,6 @@
 # Cursor Skill Builder
 
-A 7-day structured prompt engineering and Cursor workflow practice system — covering prompt design, output evaluation, guardrails, and GitHub publish workflows.
-
-## Cursor Skill Builder
-
-A lightweight 7-day practice project to sharpen prompt engineering and Cursor workflows.
+A structured 7-day practice system for sharpening prompt engineering skills and Cursor workflows — built and documented publicly as a learning artifact.
 
 ## About This Project
 
