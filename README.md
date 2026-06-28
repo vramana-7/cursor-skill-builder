@@ -25,7 +25,6 @@ Build a tiny but useful tool that turns your weekly context into:
 - clear next actions
 - a short rationale
 
-This repo starts with **Day 1** so you can practice immediately and publish your first GitHub project.
 
 ## Day 1 (60 minutes)
 
